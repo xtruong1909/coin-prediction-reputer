@@ -1,7 +1,7 @@
 {
     "wallet": {
-        "addressKeyName": "test",
-        "addressRestoreMnemonic": "",
+        "addressKeyName": "Reputer",
+        "addressRestoreMnemonic": "$ALLORA_SEED_PHRASE",
         "alloraHomeDir": "",
         "gas": "1000000",
         "gasAdjustment": 1.0,
